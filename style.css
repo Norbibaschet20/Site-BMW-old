@@ -1,0 +1,687 @@
+body {
+	font-family: 'Ovo', serif;
+
+}
+
+
+
+
+#sect1 {
+	width:100%;
+	background-color:white;
+	height:30px;
+}
+
+#sect2 {
+	width:100%;
+	background-color: green;
+	height:470px;
+}
+
+#sect3 {
+	width:100%;
+	background-color: #454545;
+	height:50px;
+	text-align: center;
+}
+
+#sect4 {
+	width:100%;
+	/*background-color: black;*/
+	height:300px;
+}
+
+#sect4st {
+	width:50%;
+	/*background-color: red;*/
+	height:300px;
+	float: left;
+
+}
+
+#sect4dr {
+	width:50%;
+	/*background-color: green;*/
+	height:300px;
+	float: right;
+}
+
+#sect5 {
+	width:100%;
+	/*background-color: black;*/
+	height:300px;
+}
+
+#sect5st {
+	width:50%;
+	/*background-color: red;*/
+	height:300px;
+	float: right;
+
+}
+
+#sect5dr {
+	width:50%;
+	/*background-color: green;*/
+	height:300px;
+	float: left;
+}
+#sect6 {
+	width:100%;
+	/*background-color: black;*/
+	height:300px;
+}
+
+#sect6st {
+	width:50%;
+	/*background-color: red;*/
+	height:300px;
+	float: left;
+
+}
+
+#sect6dr {
+	width:50%;
+	/*background-color: green;*/
+	height:300px;
+	float: right;
+}
+#sect7 {
+	width:100%;
+	/*background-color: black;*/
+	height:300px;
+}
+
+#sect7st {
+	width:50%;
+	/*background-color: red;*/
+	height:300px;
+	float: right;
+
+}
+
+#sect7dr {
+	width:50%;
+	/*background-color: green;*/
+	height:300px;
+	float: left;
+}
+#sect8 {
+	width:100%;
+	/*background-color: black;*/
+	height:300px;
+}
+
+#sect8st {
+	width:50%;
+	/*background-color: red;*/
+	height:300px;
+	float: left;
+
+}
+
+#sect8dr {
+	width:50%;
+	/*background-color: green;*/
+	height:300px;
+	float: right;
+}
+
+#sect9 {
+	width:100%;
+	/*background-color: black;*/
+	height:300px;
+}
+
+#sect9st {
+	width:50%;
+	/*background-color: red;*/
+	height:300px;
+	float: right;
+
+}
+
+#sect9dr {
+	width:50%;
+	/*background-color: green;*/
+	height:300px;
+	float: left;
+}
+#sect10 {
+	width:100%;
+	/*background-color: black;*/
+	height:300px;
+}
+
+#sect10st {
+	width:50%;
+	/*background-color: red;*/
+	height:300px;
+	float: left;
+
+}
+
+#sect10dr {
+	width:50%;
+	/*background-color: green;*/
+	height:300px;
+	float: right;
+}
+#sect11 {
+	width:100%;
+	/*background-color: black;*/
+	height:300px;
+}
+
+#sect11st {
+	width:50%;
+	/*background-color: red;*/
+	height:300px;
+	float: right;
+
+}
+
+#sect11dr {
+	width:50%;
+	/*background-color: green;*/
+	height:300px;
+	float: left;
+}
+
+
+#bmw2 {
+	width:100%;
+	height:100%;
+
+
+}
+
+.button{
+	background-color: #4CAF50;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    height: 100%;
+    width: 15%;
+
+
+
+}
+
+
+#button-albastru:hover {
+	background-color:#0487ff;
+	color:#454545;
+	font-size: 18px;
+}
+
+#seria1 {
+	width: 100%;
+	height: 100%;
+
+}
+
+#seria2 {
+	width: 100%;
+	height: 100%;
+
+}
+
+#seria3 {
+	width: 100%;
+	height: 100%;
+
+}
+
+#seria4 {
+	width: 100%;
+	height: 100%;
+
+}
+
+#seria5 {
+	width: 100%;
+	height: 100%;
+
+}
+
+#seria6 {
+	width: 100%;
+	height: 100%;
+
+}
+
+#seria7 {
+	width: 100%;
+	height: 100%;
+
+}
+
+#x6 {
+	width: 100%;
+	height: 100%;
+
+}
+
+#sect4scris1 {
+	height: 45%;
+	padding-top: 50px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+#sect4scris2 {
+	height: 15%;
+	text-align: center;
+
+}
+
+p {
+	text-align: center;
+
+
+}
+
+
+#sect5scris1 {
+	height: 45%;
+	padding-top: 50px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+#sect5scris2 {
+	height: 15%;
+	text-align: center;
+
+}
+
+#sect6scris1 {
+	height: 45%;
+	padding-top: 50px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+#sect6scris2 {
+	height: 15%;
+	text-align: center;
+
+}
+
+#sect7scris1 {
+	height: 45%;
+	padding-top: 50px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+#sect7scris2 {
+	height: 15%;
+	text-align: center;
+
+}
+
+#sect8scris1 {
+	height: 45%;
+	padding-top: 50px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+#sect8scris2 {
+	height: 15%;
+	text-align: center;
+
+}
+
+#sect9scris1 {
+	height: 45%;
+	padding-top: 50px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+#sect9scris2 {
+	height: 15%;
+	text-align: center;
+
+}
+
+#sect10scris1 {
+	height: 45%;
+	padding-top: 50px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+#sect10scris2 {
+	height: 15%;
+	text-align: center;
+
+}
+
+#sect11scris1 {
+	height: 45%;
+	padding-top: 50px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+#sect11scris2 {
+	height: 15%;
+	text-align: center;
+
+}
+#sect12 {
+	width: 100%;
+	height: 200px;
+	background: red;
+
+}
+
+
+#end1 {
+	width: 25%;
+	background-color: #454545;
+	display: inline-block;
+	height: 200px;
+	float: left;
+
+}
+
+#end2 {
+	width: 50%;
+	background-color: #454545;
+	display: inline-block;
+	height: 200px;
+	float: center;
+}
+
+#end3 {
+	width: 25%;
+	background-color: #454545;
+	display: inline-block;
+	height: 200px;
+	float: right;
+}
+
+
+#sigla {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+	height: 85%;
+
+}
+
+
+#contact1 {
+	width: 100%;
+	height: 25%;
+	text-align: center;
+	color: white;
+	font-size: 20px;
+	vertical-align: middle;
+	line-height: 50px;
+
+
+
+}
+
+#contact2 {
+	width: 100%;
+	height: 25%;
+	background-color: #454545;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 50px;
+	color: white;
+
+
+}
+
+#contact3 {
+	width: 100%;
+	height: 25%;
+	background-color: #454545;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 50px;
+	color: white;
+
+
+}
+
+#contact4 {
+	width: 100%;
+	height: 25%;
+	background-color: #454545;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 50px;
+	color: white;
+
+
+}
+
+#contact2sect1 {
+	width: 20%;
+	background-color: #454545;
+	float: left;
+	display: inline-block;
+	height: 100%;
+	font-color: white;
+
+}
+
+#contact2sect2 {
+	width: 80%;
+	background-color: #454545;
+
+
+}
+
+#contact3sect1 {
+	width: 20%;
+	background-color: #454545;
+	float: left;
+	display: inline-block;
+	height: 100%;
+	font-color: white;
+
+}
+
+#contact3sect2 {
+	width: 80%;
+	background-color: #454545;
+
+
+}
+
+#contact4sect1 {
+	width: 20%;
+	background-color: #454545;
+	float: left;
+	display: inline-block;
+	height: 100%;
+	font-color: white;
+
+}
+
+#contact4sect2 {
+	width: 80%;
+	background-color: #454545;
+
+
+}
+
+#adresa {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5px;
+	height: 85%;
+
+
+}
+
+#telefon {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5px;
+	height: 85%;
+
+
+}
+
+#email {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5px;
+	height: 85%;
+
+
+}
+
+#form {
+ 	max-width: 450px;
+    background: #FAFAFA;
+    padding: 30px;
+    margin: 50px auto;
+}
+
+
+
+#formular1 {
+	width: 50%;
+	float: left;
+	background-color: green;
+	height: 100%;
+
+
+}
+
+#formular2 {
+	width: 50%;
+	text-align: center;
+	background-color: silver;
+	height: 100%; 
+	display: inline-block;
+
+
+}
+
+#sect1contact {
+	background-color: red;
+	float: left;
+	width: 30%;
+	height: 100%;
+	display: inline-block;
+	text-align: center;
+	line-height: 30px;
+	color: white;
+	background-color: #454545;
+
+
+
+}
+
+#sect1telefon {
+	background-color: violet;
+	width: 40%;
+	height: 100%;
+	display: inline-block;
+	text-align: center;
+	line-height: 30px;
+	color: white;
+	background-color: #454545;
+
+}
+
+#sect1locatie {
+	
+	background-color: green;
+	height: 100%;
+	width: 30%;
+	display: inline-block;
+	float: right;
+	text-align: center;
+	line-height: 30px;
+	color: white;
+	background-color: #454545;
+	
+
+
+}
+
+#contact2paginanoua {
+	height: 100px;
+	background: silver;
+	width: 100%;
+	text-align: left;
+	line-height: 90px; 
+	font-size: 30px;
+	text-align: center;
+}
+
+#contact3paginanoua {
+	height: 100px;
+	background-color: silver;
+	width: 100%;
+	text-align: left;
+	line-height: 90px; 
+	font-size: 30px;
+	text-align: center;
+}
+
+#contact4paginanoua {
+	height: 100px;
+	background-color: silver;
+	width: 100%;
+	text-align: left;
+	line-height: 90px; 
+	font-size: 30px;
+	text-align: center;
+}
+
+#adresa2 {
+	display: block;
+    margin-left: 20px;
+    margin-right: auto;
+    margin-top: 5px;
+	height: 85%;
+	float: left;
+
+
+}
+
+#telefon2 {
+	display: block;
+    margin-left: 20px;
+    margin-right: auto;
+    margin-top: 5px;
+	height: 85%;
+	float: left;
+
+
+
+}
+
+#email2 {
+	display: block;
+    margin-left: 20px;
+    margin-right: auto;
+    margin-top: 5px;
+	height: 85%;
+	float: left;
+
+
+}
